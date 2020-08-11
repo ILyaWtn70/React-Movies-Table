@@ -4,7 +4,7 @@ class HelloMessage extends Component {
   render() {
     return (
       <div>
-        Привет
+
       </div>
     );
   }
